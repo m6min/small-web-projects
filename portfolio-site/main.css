@@ -116,7 +116,7 @@ aside {
     text-align: center;
     overflow: hidden;
 }
-.bg-1 {
+.bg-1 { 
     margin: 0;
     z-index: -1;
     background-color: #BDB08D;
