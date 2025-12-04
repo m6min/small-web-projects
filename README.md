@@ -17,7 +17,7 @@ This folder holds the source code for an simple example of a portfolio website.
 | :--- | :--- |
 | **Responsiveness** | **Works good on mobile and laptops, tablets are still a work in progress though** |
 
-`https://m6min.github.io/small-web-projects/portfolio-site/`
+(See the live site [here](https://m6min.github.io/small-web-projects/portfolio-site/))
 ---
 
 ## 🚀 Getting Started
