@@ -20,6 +20,7 @@ body {
     background: linear-gradient(to right, #2e2b2c, #3f312e, #5a3b2e);
     background-attachment: fixed;
     color: #BDB08D;
+    max-width: 100%;
 } 
 .invisible {
     opacity: 0;
@@ -118,7 +119,6 @@ aside {
 }
 .bg-1 { 
     margin: 0;
-    z-index: -1;
     background-color: #BDB08D;
     height: 20vh;
     width: 100%;
@@ -128,7 +128,6 @@ aside img {
     border-radius: 50%;
     border: 5px solid #5F5B6B;
     transform: translateY(-50px);
-    z-index: 1;
     margin: 0;
     padding: 0;
 }
@@ -271,6 +270,7 @@ footer p {
     margin-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+    font-style: italic;
 }
 @keyframes swing {
   0% {
