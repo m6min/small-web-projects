@@ -7,16 +7,17 @@ This repository is a collection of small web projects I've built using HTML, CSS
 
 ### [Portfolio Site](portfolio-site/)
 
-This folder holds the source code for example of a portfolio website.
+This folder holds the source code for an simple example of a portfolio website. 
+
 
 * **Technologies:** HTML5, CSS3 (using Media Queries for responsiveness), JavaScript.
-* **Goal:** To create a clean, responsive user interface that works smoothly on both large and small screens.
+* **Note:** Nothing too fancy, just a fun experiment to challenge myself after stop coding for 2 years :))
 
 | Status | Description |
 | :--- | :--- |
-| **Current Status** | **Non-Responsive Design (Will take care of small devices soon)** |
+| **Responsiveness** | **Works good on mobile and laptops, tablets are still a work in progress though** |
 
-`https://m6min.github.io/small-web-projects/portfolio-site/`
+(See the live site [here](https://m6min.github.io/small-web-projects/portfolio-site/))
 ---
 
 ## 🚀 Getting Started
