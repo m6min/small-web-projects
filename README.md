@@ -11,7 +11,7 @@ This folder holds the source code for an simple example of a portfolio website.
 
 
 * **Technologies:** HTML5, CSS3 (using Media Queries for responsiveness), JavaScript.
-* **Note:** Nothing too fancy, just a fun experiment to challenge myself after stop coding for 2 years :))
+* **Note:** Nothing too fancy, just a fun experiment to challenge myself after stop coding for 2 years 
 
 | Status | Description |
 | :--- | :--- |
