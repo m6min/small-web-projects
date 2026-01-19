@@ -30,3 +30,4 @@ To run these projects on your local machine, follow these steps:
     ```
 2.  Navigate to the project folder you wish to view (e.g., `portfolio-site`).
 3.  Open the `index.html` file directly in your browser.
+---
