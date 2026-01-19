@@ -10,8 +10,8 @@ This repository is a collection of small web projects I've built using HTML, CSS
 This folder holds the source code for an simple example of a portfolio website. 
 
 
-* **Technologies:** HTML5, CSS3 (using Media Queries for responsiveness), JavaScript.
-* **Note:** Nothing too fancy, just a fun experiment to challenge myself after stop coding for 2 years :))
+* **Technologies:** HTML5, CSS3 (using Media Queries for responsiveness), JavaScript
+* **Note:** Nothing too fancy, just an experiment to challange myself
 
 | Status | Description |
 | :--- | :--- |

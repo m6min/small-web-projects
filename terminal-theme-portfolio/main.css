@@ -1,0 +1,64 @@
+:root {
+    --main-bg: #0d0d0d;
+    --font-green: #3ebf34;
+    --font-red: #d33a3a;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    background-color: var(--main-bg);
+}
+
+header {
+    width: 100%;
+    background-color: azure;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 10px;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-right: 15px;
+} 
+
+i {
+    color: #0d0c0d;
+    font-size: 15px;
+}
+
+.terminal {
+    background-color: #0d0d0c;
+    color: var(--font-green);
+    width: 100%;
+    padding: 20px;
+}
+
+.row {
+    display: grid;
+    width: 100%;
+    grid-template-columns: auto 1fr;
+    gap: 15px;
+}
+
+.input {
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    font-family: inherit;
+    outline: none;
+    font-size: inherit;
+}
