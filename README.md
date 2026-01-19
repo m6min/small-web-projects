@@ -17,7 +17,7 @@ This folder holds the source code for an simple example of a portfolio website.
 | :--- | :--- |
 | **Responsiveness** | **Works good on mobile and laptops, tablets are still a work in progress though** |
 
-(See the live site [here](https://m6min.github.io/small-web-projects/portfolio-site/))
+(See the live site [here](https://m6min.github.io/web-playground/portfolio-site/))
 ---
 
 ## 🚀 Getting Started
@@ -26,7 +26,7 @@ To run these projects on your local machine, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/m6min/small-web-projects.git](https://github.com/m6min/small-web-projects.git)
+    git clone [https://github.com/m6min/web-playground.git](https://github.com/m6min/web-playground.git)
     ```
 2.  Navigate to the project folder you wish to view (e.g., `portfolio-site`).
 3.  Open the `index.html` file directly in your browser.
