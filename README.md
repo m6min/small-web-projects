@@ -1,4 +1,4 @@
-# 💻 Small Web Projects
+# 💻 Web Playground
 
 This repository is a collection of small web projects I've built using HTML, CSS, and JavaScript. My goal is to apply the technologies I learn and develop my skills in writing clean, well-organized code.
 
