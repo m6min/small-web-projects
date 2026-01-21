@@ -32,7 +32,7 @@ To run these projects on your local machine, follow these steps:
 3.  Open the `index.html` file directly in your browser.
 ---
 
-# 📟 [Terminal Portfolio](terminal-theme-portfolio/)
+### 📟 [Terminal Portfolio](terminal-theme-portfolio/)
 
 This folder holds the source code for my personal portfolio website, designed to look and feel like a developer's command-line interface. My goal was to create an interactive experience using pure JavaScript logic and CSS layouts, avoiding any frameworks.
 
