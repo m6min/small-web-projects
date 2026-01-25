@@ -1,7 +1,6 @@
 # 💻 Web Playground
 
-This repository is a collection of small web projects I've built using HTML, CSS, and JavaScript. My goal is to apply the technologies I learn and develop my skills in writing clean, well-organized code.
-
+This repository documents the small web projects I've built using HTML, CSS, and JavaScript. My goal is to leave a lasting reminder of my progress for the future.
 --- 
 
 
@@ -59,4 +58,4 @@ To run this project on your local machine, follow these steps:
 
 2.  Navigate to the project folder.
 3.  Open the `index.html` file directly in your browser.
----
+---  
